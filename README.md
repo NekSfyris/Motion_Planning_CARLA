@@ -8,6 +8,7 @@ An implementation of a full motion and behavior planning pipeline for a self-dri
 ### Install
 
 Follow the steps described in the installation folder.
+To run our motion planning, you need to download this package
 
 ### Run
 
