@@ -8,7 +8,7 @@ An implementation of a full motion and behavior planning pipeline for a self-dri
 ### Install
 
 Follow the steps described in the installation folder.
-To run our motion planning, you need to download this package
+To run our motion planning, you need to download this package, unzip it, and move it as a "Motion_Planning_CARLA" folder under the "PythonClient" folder.
 
 ### Run
 
@@ -19,6 +19,6 @@ $ ./CarlaUE4.sh /Game/Maps/Course4 -windowed -carla-server -benchmark -fps=20 Re
 ```
 Then at a second terminal: 
 ```
-$ cd ~/opt/CarlaSimulator/PythonClient/Course4FinalProject
+$ cd ~/opt/CarlaSimulator/PythonClient/Motion_Planning_CARLA
 $ python3 module_7.py
 ```
